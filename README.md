@@ -1,4 +1,4 @@
-I'm a long-time engineer working at Shopify. I live near Berlin, Germany.
+<!---I'm a long-time engineer working at Shopify. I live near Berlin, Germany.
 
 
 - 👋 Hi, I’m @benjaminmock
@@ -10,7 +10,7 @@ I'm a long-time engineer working at Shopify. I live near Berlin, Germany.
 ## Contact
 Reach me on [Twitter](https://twitter.com/benjaminmock), on [LinkedIn](https://www.linkedin.com/in/benjamin-mock/).
 
-<!---
+
 benjaminmock/benjaminmock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
